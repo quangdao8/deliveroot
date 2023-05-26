@@ -24,9 +24,33 @@ const FeaturedRow = ({ id, title, description, featuredCategory }) => {
                 <RestaurantCard
                  id={1}
                  imgUrl={''}
-                 title={'title1'}
-                 rating={1}
-                 genre={'male'}
+                 title={'Yo! Sushi'}
+                 rating={4.5}
+                 genre={'Japanese'}
+                 address={'hn1'}
+                 short_description={''}
+                 dishes={''}
+                 long={''}
+                 lat={''}
+                />
+                 <RestaurantCard
+                 id={1}
+                 imgUrl={''}
+                 title={'Yo! Sushi'}
+                 rating={4.5}
+                 genre={'Japanese'}
+                 address={'hn1'}
+                 short_description={''}
+                 dishes={''}
+                 long={''}
+                 lat={''}
+                />
+                 <RestaurantCard
+                 id={1}
+                 imgUrl={''}
+                 title={'Yo! Sushi'}
+                 rating={4.5}
+                 genre={'Japanese'}
                  address={'hn1'}
                  short_description={''}
                  dishes={''}
